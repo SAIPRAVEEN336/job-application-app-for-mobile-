@@ -1,0 +1,5 @@
+{
+  "name": "React AuthFlow",
+  "description": "A sleek and modern user authentication and management application built with React, TypeScript, and Tailwind CSS. It includes pages for login, registration, password reset, and user profile management.",
+  "requestFramePermissions": []
+}
